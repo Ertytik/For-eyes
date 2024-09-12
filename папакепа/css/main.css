@@ -1,0 +1,19 @@
+* {
+padding: 0px;
+margin: 0px;
+border: border-box;
+}
+.header,
+.nav,
+.main,
+.Part1,
+.part2,
+.part3,
+.Низ {
+	padding: px;
+	text-align: center;	
+}
+.Part1 {
+  padding: 100px;
+	text-align: center;
+}
