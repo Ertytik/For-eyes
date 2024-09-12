@@ -3,17 +3,47 @@ padding: 0px;
 margin: 0px;
 border: border-box;
 }
-.header,
-.nav,
-.main,
-.Part1,
-.part2,
-.part3,
+.Шапка {
+	text-align: center;
+	background-color: orange;
+	height:70px;
+	font-size: 30px;
+}
+.Ссылки {
+	text-align: center;
+	background-color: orange;
+	height: 50px;
+	font-size: 30px;
+	
+}
+.Нижние-Ссылки{
+	font-size: 20px;
+
+}
 .Низ {
-	padding: px;
-	text-align: center;	
+	text-align:center;
+	background-color: green;
+	height: 600px;
+}
+
+.Parts {
+	background-color: red;
+	text-align: left;
+	height: 1000px;
+	font-size: 30px;
 }
 .Part1 {
-  padding: 100px;
-	text-align: center;
+	text-align: left;
+	width: 1000px;
+	background-color: white;
+	margin: auto;
+}
+.Part2 {
+	background-color: white;
+	width: 100px;
+	float: right;
+}
+.Part3{
+	text-align:center;
+	background-color: rgb(255, 232, 127);
 }
